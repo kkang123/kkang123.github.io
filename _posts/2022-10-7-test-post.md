@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Test001
-tags:
+tags: [test]
+categories: junk
 ---
 
 # Test Post
