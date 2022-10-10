@@ -2,7 +2,7 @@
 layout: post
 title: 파이썬 for beginner 자료구조와 알고리즘 2장 연습문제
 tags: [python]
-categories: practice problem
+categories: practice-problem
 ---
 
 # 파이썬 for beginner 자료구조와 알고리즘 2장
