@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Hi! My Name is jiHean Kim. And My Nicknames is kkang123.
+
+이 블로그는 개인 공부를 한 내용을 정리해놓은 블로그입니다.
