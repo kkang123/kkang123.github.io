@@ -52,8 +52,8 @@ padding은 컨텐츠를 감싸는 여백!
 
 ## 4. 상하 좌우 같을 때 (margin/padding:[상=하], [좌=우])
 
-margin 10px 20px;
+- margin 10px 20px;
 
 <br>
 
-padding : 10px 20px;
+- padding : 10px 20px;
